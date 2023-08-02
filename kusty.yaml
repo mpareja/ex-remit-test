@@ -8,6 +8,7 @@ resources:
 
 images:
   - name: 598786118242.dkr.ecr.us-east-1.amazonaws.com/ask-bluej
-    newTag: master_e8413e8
+    newTag: master_bogusaa
   - name: 598786118242.dkr.ecr.us-east-1.amazonaws.com/ask-bluej-backend
     newTag: master_a03c47b
+
